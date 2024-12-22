@@ -23,11 +23,12 @@ body{
     width: 80%;
     max-width: 380px;
     border-radius: 25px;
-    padding: 1.2em 1.2em; 
+    padding: 2em 2em; 
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    
 
 }
 
@@ -67,6 +68,7 @@ body{
     font-weight: var(--font-700);
     letter-spacing: .5ch;
     cursor: pointer;
+   
 }
 
 .submit__btn:hover,
@@ -82,7 +84,7 @@ body{
     padding: .6em;
     border-radius: 20px;
     background-color: var(--very-Light-Grey); 
-    margin: 30px auto 35px auto;
+    margin: 0px auto 5px auto;
 
 }
 
